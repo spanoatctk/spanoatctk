@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spanoatctk / @michalspano
+- 👀 I’m interested in CI/DI, DevOps, automatisation, and software (in general).
+- 🌱 I’m currently learning Haskell, React Native, Vue.js
+- 📫 How to reach me: [michal.spano@ctk.se](mailto:michal.spano@ctk.se) / [spano@chalmers.se](mailto:spano@chalmers.se)
